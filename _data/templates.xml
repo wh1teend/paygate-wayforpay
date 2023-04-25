@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="payment_profile_wh1WayForPay" version_id="1000070" version_string="1.0.0"><![CDATA[<xf:textboxrow name="options[merchant_account]" value="{$profile.options.merchant_account}"
+			   label="{{ phrase('wh1_pg_wayforpay_merchant_account') }}"
+			   hint="{{ phrase('required') }}">
+</xf:textboxrow>
+
+<xf:passwordboxrow name="options[secret_key]" value="{$profile.options.secret_key}" type="password" 
+			   label="{{ phrase('wh1_pg_wayforpay_secret_key') }}"
+			   hint="{{ phrase('required') }}">
+</xf:passwordboxrow>]]></template>
+</templates>

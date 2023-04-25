@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="wh1_pg_wayforpay_merchant_account" version_id="1000070" version_string="1.0.0"><![CDATA[Merchant account]]></phrase>
+  <phrase title="wh1_pg_wayforpay_secret_key" version_id="1000070" version_string="1.0.0"><![CDATA[Secret key]]></phrase>
+  <phrase title="wh1_pg_wayforpay_you_must_provide_all_data" version_id="1000070" version_string="1.0.0"><![CDATA[You must provide all data!]]></phrase>
+</phrases>
